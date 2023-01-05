@@ -35,7 +35,7 @@ def main():
 
     # 8. [‘Abigail’, ‘Chad’, ‘Emma’, ‘George’, ‘Imogen’, ‘Kurt’]
 
-    print(names[0:1],names[2:3],names[4:5],names[6:7],names[8:9],names[10:11])
+    print(names[0:1], names[2:3], names[4:5], names[6:7], names[8:9], names[10:11])
 
     # 9. [‘Abigail’, ‘Chad’, ‘Emma’, ‘George’, ‘Imogen’, ‘Kurt’] (using a different way than above.
     # HINT: If you leave a slice number blank, the default is either the beginning or the end of the list,
@@ -43,12 +43,11 @@ def main():
 
 
     # 10. [‘Linda’, ‘Kurt’, ‘Jackie’]
-
+    print(names[-1:],names[-2:-1],names[-3:-2])
 
     # 11. ['Linda', 'Kurt', 'Jackie', 'Imogen', 'Harold', 'George', 'Francis', 'Emma', 'Doug', 'Chad', 'Brenda', 'Abigail']
 
-
-
+    
     # 12. ['Linda', 'Kurt', 'Jackie', 'Imogen', 'Harold', 'George', 'Francis', 'Emma', 'Doug', 'Chad', 'Brenda', 'Abigail']
     # (in a different way than 11. See hint for 9 for help.)
 
