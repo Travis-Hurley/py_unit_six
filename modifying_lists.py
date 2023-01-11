@@ -28,3 +28,6 @@ def remove_duplicates(numbers):
     """
 
     pass # remove this line when starting your function
+colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+for colour in colors:
+     print(colour)

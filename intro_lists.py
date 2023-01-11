@@ -12,7 +12,7 @@ def swap():
     list_one[-1] = end
     print(list_one)
 
-swap()
+
 
 def rotate_left():
     """
@@ -38,7 +38,7 @@ def max_end():
     :param list_one: A list consisting of three elements - all integers
     :return: A list where all the elements are the larger of the first or last element of the original list
     """
-    list_one=[0,6,1]
+    list_one=[0, 6, 1]
     first = list_one[0]
     last = list_one[-1]
     if first > last:
@@ -50,4 +50,3 @@ def max_end():
     else:
         list_one[1] = last
     print(list_one)
-max_end()
