@@ -16,3 +16,5 @@ def main():
             break
     for y in range(amount):
         get_birthdays()
+main()
+
