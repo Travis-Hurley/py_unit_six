@@ -58,6 +58,6 @@ def main():
     rond = round(percent, 4)            # assigns variable to the amount of times a duplicate was found
     real = rond * 100
     print(real,"% of the classes had duplicates!")  # prints amount of duplicates and says goodbye vvv
-    print("This is",amount,"times.")
+    print("This is",amount,"time(s).")
     print("Thank you for playing.")
 main()
