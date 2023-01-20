@@ -1,4 +1,4 @@
-# Travis Hurley - Jan - 19 - 2023 - Running the birthday paradox
+# Travis Hurley - Jan/19/2023 - Running the birthday paradox
 import random
 amount = 0                          # assigns a variable for later use to keep track of amount of duplicates
 def intro():
