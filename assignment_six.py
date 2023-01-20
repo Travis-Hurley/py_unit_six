@@ -1,4 +1,4 @@
-# Travis Hurley - Jan/19/2023 - Running the birthday paradox
+# Travis Hurley - Jan/20/2023 - Running the birthday paradox
 import random
 amount = 0                          # assigns a variable for later use to keep track of amount of duplicates
 def intro():
@@ -31,7 +31,6 @@ def get_birthdays():
     return list_one
 def is_duplicates(random_list):
     '''
-
     :param random_list: takes random 23 numbers from get_birthdays
     :return: returns true to break the loop
     '''
